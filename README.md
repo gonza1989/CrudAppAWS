@@ -1,6 +1,10 @@
 # CrudApp-Analista2
 CRUD Application in AWS with DynamoDB
 
+## ENDPOINT 
+
+http://ec2-52-15-70-16.us-east-2.compute.amazonaws.com/api/user/
+
 ## Contents
 
 <details>
